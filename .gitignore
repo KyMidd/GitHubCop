@@ -1,0 +1,16 @@
+# Org info stored in file, ignore
+org_info.json
+
+# Vars for traversing while loop
+JENKINS_ANY_JOB_ENABLE
+REQUIRED_APPROVERS_COUNT
+COLLECTION_NAME
+CSV_MATCH_FOUND
+
+# Ignore org-wide files for storing curl output
+curl.output
+http.response.code
+
+# Ignore shard files
+all_repos
+all_repos_*

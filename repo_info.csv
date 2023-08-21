@@ -1,0 +1,8 @@
+# Collection name defaults to blank. If repo part of collection, add line for repo
+# Approvers defaults to 1, add line for repo if different
+# Jenkins Any Job Enable defaults to false, add line for repo if different
+GH_REPO,COLLECTION_NAME,REQUIRED_APPROVERS_COUNT,JENKINS_ANY_JOB_ENABLE
+
+# Notes are supported in this doc type
+repo1,Collection1,1,false
+repo2,Collection2,1,false
