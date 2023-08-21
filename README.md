@@ -6,6 +6,7 @@ To use it, update the "repo_info.csv" file with any new repos with a PR. When th
 
 # Repo settings that are updated
 
+##### Delete branch on merge
 ##### Actions Settings
 - Enable Actions permissions to Allow enterprise, and select non-enterprise...
 ##### Update collaborator permissions
@@ -25,7 +26,6 @@ To use it, update the "repo_info.csv" file with any new repos with a PR. When th
 - Restrict who can push to matching branches
 - Uncheck "do not allow bypassing the above settings"
 - Check "allow specific actors to bypass required pull requests" with user automation-ci
-##### Delete branch on merge
 
 # Permission Collisions
 
