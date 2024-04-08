@@ -34,4 +34,3 @@ This script sets specific settings directly. If there are direct colissions, thi
 # Triggers
 
 The automation will run when the PR is merged or can be run manually on the github web console. 
-
